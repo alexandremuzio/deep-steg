@@ -13,7 +13,7 @@ This code was initially produced with the goal of reproducing to a reasonable de
 
 The dataset we used in this implementation is Tiny ImageNet Visual Recognition Challenge. It can be downloaded from [here](https://tiny-imagenet.herokuapp.com/) and extracted to data/. The following figure shows some sample images of the dataset.
 
-![](_images/sample_images.PNG)
+![](_images/sample_images.png)
 
 
 ## Architecture and implementation
@@ -33,12 +33,12 @@ Although the author of the paper didn't explicitly described the learning rate s
 
 The following figure shows the distribution pixel-wise distribution of errors for the cover and secret images, respectively. Note that the errors are in a 0-255 scale.
 
-![](_images/errors.PNG)
+![](_images/errors.png)
 
 
 Finally, we show some examples of the generated images compared to the real ones. The 5th and 6th columns show the magnified differences between the generated cover and secret images.
 
-![](_images/results.PNG)
+![](_images/results.png)
 
 
 
