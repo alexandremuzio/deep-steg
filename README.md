@@ -1,5 +1,10 @@
 # Deep Steganography
 
+## Instalation
+The required dependencies are:
+- Tensorflow
+- Keras
+- tqdm
 
 ## Introduction
 
